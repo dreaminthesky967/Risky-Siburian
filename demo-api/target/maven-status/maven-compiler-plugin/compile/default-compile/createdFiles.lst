@@ -1,0 +1,3 @@
+com\domain\models\entities\User.class
+com\domain\DemoApiApplication.class
+com\domain\controllers\welcomeController.class
